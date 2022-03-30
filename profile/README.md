@@ -8,8 +8,8 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event
-<p> Name of Event: <b> Technical Interview Prep Workshop </b> <br> Date: March 29th, 2021 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn the necessary skills to excel in technical Interviews and you’ll learn/practice a couple of Data Structure questions. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH <br> Meeting ID: 872 1253 1044 <br> Passcode: 083836  </p>
+<p> Name of Event: <b> Javascript Guessing Game </b> <br> Date: April 12th, 2022 (Tues) <br> Time: 1:40pm-2:55pm <br> Description: You will learn how to create a guessing game using HTML/CSS/Javascript. <br> Zoom Link: 
+https://jjay-cuny.zoom.us/meeting/register/tZUkcOmupz8jH9C7rRhCO_vw62bka0-yjzwk <br> Meeting ID: 819 7069 4954 <br> Passcode: 279298 </p>
 
 
 # Table of Contents
