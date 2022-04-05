@@ -11,7 +11,7 @@ This Github will be a place where all club members will be able to access any pr
 <p> Name of Event: <b> Javascript Guessing Game </b> <br> Date: April 12th, 2022 (Tues) <br> Time: 1:40pm-2:55pm <br> Description: You will learn how to create a guessing game using HTML/CSS/Javascript. <br> Zoom Link: 
 https://jjay-cuny.zoom.us/meeting/register/tZUkcOmupz8jH9C7rRhCO_vw62bka0-yjzwk <br> Meeting ID: 819 7069 4954 <br> Passcode: 279298 </p>
 
-<p> Name of Event: <b> CSS Club: Election </b> <br> Date: April 26th, 2022 (Tues) <br> Time: 1:40pm-2:10pm <br> Description: We will be electing a new club executive board. <br> Zoom Link: 
+<p> Name of Event: <b> CSS Club - Election </b> <br> Date: April 26th, 2022 (Tues) <br> Time: 1:40pm-2:10pm <br> Description: We will be electing a new club executive board. <br> Zoom Link: 
 https://jjay-cuny.zoom.us/meeting/register/tZUpd-CgqD8vHdIYOd56RnjbfUyYoJ54qLUq <br> Meeting ID: 814 0986 4576 <br> Passcode: 125773 </p>
 
 
