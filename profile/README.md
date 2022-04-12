@@ -8,8 +8,13 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p> Name of Event: <b> CSS Club - Election </b> <br> Date: April 26th, 2022 (Tues) <br> Time: 1:40pm-2:10pm <br> Description: We will be electing a new club executive board. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZUpd-CgqD8vHdIYOd56RnjbfUyYoJ54qLUq <br> Meeting ID: 814 0986 4576 <br> Passcode: 125773 </p>
+<b>Name of Event: </b>[Club Election ZOOM Link](https://jjay-cuny.zoom.us/meeting/register/tZUpd-CgqD8vHdIYOd56RnjbfUyYoJ54qLUq) <br>
+<b>Description:</b> Electing new executives for the CSS Club. Anyone is welcome to apply (link below). The deadline to apply is April 23rd, the latest. <br>
+<b>Date:</b> April 26th, 2022 <br>
+<b>Time</b>: 1:40PM - 2:10PM <br>
+<b>Meeting ID</b>: 814 0986 4576 <br>
+<b>Passcode</b>: 125773 <br>
+<b>Apply for a Club Position (see Exec duties)</b>: https://docs.google.com/forms/d/e/1FAIpQLSfPmTL4ukxuUTeqesH3YW8dfu-ntw-yCeQu6i5IL_ENpdunHw/viewform
 
 
 # Table of Contents
