@@ -88,6 +88,7 @@ https://jjay-cuny.zoom.us/meeting/register/tZEqde-qpjsuGtXI-NYU-nTQWhY4ei-E2kXk 
 - [Career Prep Workshop repo](https://github.com/jjcss/Career_Prep_Spring_2022)
 - [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Spring_2022)
 - [Tehnnical Interview Prep Workshop repo](https://github.com/jjcss/Tech_Prep_Workshop_Spring_2022)
+- [Web Development Basics Workshop repo](https://github.com/jjcss/Javascript_Workshop_Spring_2022)
 
 # Past Fall 2021 Events Repositories
 - [Python Workshop repo](https://github.com/jjcss/Python-Workshop-CSS)
