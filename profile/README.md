@@ -8,13 +8,13 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<b>Name of Event: </b>[Club Election ZOOM Link](https://jjay-cuny.zoom.us/meeting/register/tZUpd-CgqD8vHdIYOd56RnjbfUyYoJ54qLUq) <br>
-<b>Description:</b> Electing new executives for the CSS Club. Anyone is welcome to apply (link below). The deadline to apply is April 23rd, the latest. <br>
-<b>Date:</b> April 26th, 2022 <br>
-<b>Time</b>: 1:40PM - 2:10PM <br>
-<b>Meeting ID</b>: 814 0986 4576 <br>
-<b>Passcode</b>: 125773 <br>
-<b>Apply for a Club Position (see Exec duties)</b>: https://docs.google.com/forms/d/e/1FAIpQLSfPmTL4ukxuUTeqesH3YW8dfu-ntw-yCeQu6i5IL_ENpdunHw/viewform
+<b>Name of Event: </b>[Python/Final General Meeting ZOOM Link](https://jjay-cuny.zoom.us/meeting/register/tZEqde-qpjsuGtXI-NYU-nTQWhY4ei-E2kXk) <br>
+<b>Description:</b> Intoduction on using Kaggle with Python and ending the meeting by recapping our Spring Semester and our vision for next Semester. <br>
+<b>Date:</b> Tuesday, May 3rd, 2022 <br>
+<b>Time</b>: 1:40PM - 2:55PM <br>
+<b>Meeting ID</b>: 857 2628 0401 <br>
+<b>Passcode</b>: 733297 <br>
+<b>Apply for a Assitant Exec Club Position (see Assistant Exec duties)</b>: [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdaBE8Z7vTgeO9OzvOiPYjfaTyerlrOXCD5QaVq69FvyasCsw/viewform)
 
 
 # Table of Contents
