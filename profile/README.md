@@ -39,12 +39,12 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 
 # Executive Board
 <a href="https://www.leandrogamarra.com/" style="text-decoration=none;" target="_blank" rel="noopener noreferrer">Leandro Gamarra (President)</a>
-- Luis Brito (Vice-President)
-- Tanizl Hassan (Secretary)
-- Rachel Perez (Treasurer)
-- Sam Raykhman (Assistant Vice-President)
-- Katharine Wyant (Assistant Secretary
-- Annie He (Assistant Treasurer)
+- Sam Raykhman (Vice-President)
+- Katharine Wyant (Secretary)
+- Annie He (Treasurer)
+- Samira Akram (Assistant Vice-President)
+- Israel Klein (Assistant Secretary
+- ... (Assistant Treasurer)
 
 ---
 
