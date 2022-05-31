@@ -8,7 +8,7 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-We have no more planned events for the Spring Semester. See you all in the Fall of 2022 and if you are graduating, we wish you the best of luck! <br>
+We have no more planned events for the Spring Semester. See you all in the Fall of 2022 and if you are graduating, we wish you the best of luck! We'll begin updating our socials and Github as the <b> Fall 2022 semester approaches </b> <br> <br>
 <b>Apply for a Assistant Exec Club Position - Fall 2022 (see Assistant Exec duties)</b>: [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdaBE8Z7vTgeO9OzvOiPYjfaTyerlrOXCD5QaVq69FvyasCsw/viewform)
 
 
