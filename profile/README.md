@@ -55,7 +55,7 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 ---
 
 
-# Spring 2022 Calendar of Events
+# Spring 2022 Calendar of Events (Ended)
 
 **February**
 
