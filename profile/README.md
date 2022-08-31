@@ -8,8 +8,10 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-We have no more planned events for the Spring Semester. See you all in the Fall of 2022 and if you are graduating, we wish you the best of luck! We'll begin updating our socials and Github as the <b> Fall 2022 semester approaches </b> <br> <br>
-<b>Apply for a Assistant Exec Club Position - Fall 2022 (see Assistant Exec duties)</b>: [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdaBE8Z7vTgeO9OzvOiPYjfaTyerlrOXCD5QaVq69FvyasCsw/viewform)
+<p>Name of Event: <b> First General Meeting </b> <br> Date: September 13th, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
+Room Number: TBD <br> </p>
 
 
 # Table of Contents
