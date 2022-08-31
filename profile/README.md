@@ -55,34 +55,43 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 ---
 
 
-# Spring 2022 Calendar of Events (Ended)
+# Fall 2022 Calendar of Events (Open)
 
-**February**
+## September
 
-<p>Name of Event: <b> First General Meeting </b> <br> Date: February 8th, 2022 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZAqc-uqpj0tGNyPmcraE3XBWXn7KT_OYcsO <br> Meeting ID: 847 4228 6728
- <br> Passcode: 708409 </p>
+<p>Name of Event: <b> First General Meeting </b> <br> Date: September 13th, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
+Room Number: TBD <br> </p>
 
-<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: February 22nd, 2022 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn about the various opportunities at John Jay College and in the Computer Science Field. And, this would be a meeting to network with other students. <br> Zoom Link: 
- https://jjay-cuny.zoom.us/meeting/register/tZAuf-CsqDgqH9UKDfz1n7dYv0eSlwl7cRvV <br> Meeting ID: 843 8946 3051 <br> Passcode: 085113 </p>
+<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 27thth, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: You will learn about the various opportunities at John Jay College and in the Computer Science field. And, this would be a meeting to network with other students. <br> 
+Room Number: TBD <br> </p>
  
-**March**
+## October
 
-<p> Name of Event: <b> Git/Github Workshop </b> <br> Date: March 15th, 2022 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn the basics of Git and Github. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZAscuCuqD0vHdAl9sycll5aRIVZVXnRBB-m <br> Meeting ID: 841 5966 6574 <br> Passcode: 113467 </p>
+<p>Name of Event: <b> A Look Into Cybersecurity Workshop </b> <br> Date: October 11th, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: We will take a look into some of the basic architecture of networks and we will explore some of the most common attacks. <br> 
+Room Number: TBD <br> </p>
 
-<p> Name of Event: <b> Technical Interview Prep Workshop </b> <br> Date: March 29th, 2021 (Tues) <br> Time: 1:40 PM - 2:55 PM <br> Description: You will learn the necessary skills to excel in technical Interviews and you’ll learn/practice a couple of Data Structure questions. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH <br> Meeting ID: 872 1253 1044 <br> Passcode: 083836  </p>
+<p>Name of Event: <b> iOS Development Workshop </b> <br> Date: October 25th, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: You will get an introduction into iOS Development using Apple’s Swift programming language. You will also learn how to start making your very own app programmatically. <br> 
+Room Number: TBD <br> </p>
 
-**April**
+## November
 
-<p> Name of Event: <b> Javascript Guessing Game </b> <br> Date: April 12th, 2022 (Tues) <br> Time: 1:40pm-2:55pm <br> Description: You will learn how to create a guessing game using HTML/CSS/Javascript. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZUkcOmupz8jH9C7rRhCO_vw62bka0-yjzwk <br> Meeting ID: 819 7069 4954 <br> Passcode: 279298 </p>
+<p>Name of Event: <b> Ethical Hacking (Capture the Flag) Workshop </b> <br> Date: November 8th, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: We will execute some of the most common attacks Cybersecurity experts face. You will also get hands on practive via a Capture the Flag (CTF) game. <br> 
+Room Number: TBD <br> </p>
 
-**May**
-
-<p> Name of Event: <b> Python Workshop & Final General Meeting </b> <br> Date: May 3rd, 2022 (Tues) <br> Time: 1:40pm-2:55pm <br> Description: The club’s last general meeting will show members of the club how to do a Python-related project which can then be uploaded into their portfolio and we will summarize our Semester. <br> Zoom Link: 
-https://jjay-cuny.zoom.us/meeting/register/tZEqde-qpjsuGtXI-NYU-nTQWhY4ei-E2kXk <br> Meeting ID: 857 2628 0401 <br> Passcode: 733297 </p>
+<p>Name of Event: <b> Introduction To React / Final General Meeting </b> <br> Date: November 22nd, 2022 (Tues) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: You will get an introduction into the ever evolving programming language React. This meeting will also be our last meeting of the semester, where we’ll recap all events and new club members. <br> 
+Room Number: TBD <br> </p>
 
 # Past Spring 2022 Events Repositories
 - [Career Prep Workshop repo](https://github.com/jjcss/Career_Prep_Spring_2022)
