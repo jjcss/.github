@@ -17,7 +17,7 @@ We have no more planned events for the Spring Semester. See you all in the Fall 
 - [About Us](#About-Us)
 - [Executive Board](#Executive-Board)
 - [How to Contribute to the Club Website](#How-to-Contribute-to-the-Club-Website)
-- [Spring 2022 Calendar of Events](#Spring-2022-Calendar-of-Events)
+- [Fall 2022 Calendar of Events](#Spring-2022-Calendar-of-Events)
 - [Past Spring 2022 Events Repositories](#Past-Spring-2022-Events-Repositories)
 - [Past Fall 2021 Events Repositories](#Past-Fall-2021-Events-Repositories)
 
