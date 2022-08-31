@@ -20,6 +20,7 @@ Room Number: TBD <br> </p>
 - [Executive Board](#Executive-Board)
 - [How to Contribute to the Club Website](#How-to-Contribute-to-the-Club-Website)
 - [Fall 2022 Calendar of Events](#Fall-2022-Calendar-of-Events)
+- [Past Fall 2022 Events Repositories](#Past-Fall-2022-Events-Repositories)
 - [Past Spring 2022 Events Repositories](#Past-Spring-2022-Events-Repositories)
 - [Past Fall 2021 Events Repositories](#Past-Fall-2021-Events-Repositories)
 
@@ -94,6 +95,9 @@ Room Number: TBD <br> </p>
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will get an introduction into the ever evolving programming language React. This meeting will also be our last meeting of the semester, where we’ll recap all events and new club members. <br> 
 Room Number: TBD <br> </p>
+
+# Past Fall 2022 Events Repositories
+- Pending...
 
 # Past Spring 2022 Events Repositories
 - [Career Prep Workshop repo](https://github.com/jjcss/Career_Prep_Spring_2022)
