@@ -11,7 +11,9 @@ This Github will be a place where all club members will be able to access any pr
 <p>Name of Event: <b> First General Meeting </b> <br> Date: September 13th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
-Room Number: TBD <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZAscO6urDssE9K-Yqr2hhxJsRVxR_1WQ-fU <br> 
+Meeting ID: 841 7762 0696 <br> 
+</p>
 
 
 # Table of Contents
@@ -65,7 +67,9 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 <p>Name of Event: <b> First General Meeting </b> <br> Date: September 13th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
-Room Number: TBD <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZAscO6urDssE9K-Yqr2hhxJsRVxR_1WQ-fU <br> 
+Meeting ID: 841 7762 0696 <br> 
+</p>
 
 <p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 27thth, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
