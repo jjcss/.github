@@ -47,8 +47,8 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 - Sam Raykhman (Vice-President)
 - Katharine Wyant (Secretary)
 - Annie He (Treasurer)
-- Samira Akram (Assistant Vice-President)
-- Israel Klein (Assistant Secretary
+- Israel Klein (Assistant Vice-President)
+- ... (Assistant Secretary
 - ... (Assistant Treasurer)
 
 ---
