@@ -71,14 +71,14 @@ Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZAscO6urDssE9K-Yqr2hhxJsR
 Meeting ID: 841 7762 0696 <br> 
 </p>
 
-<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 20thth, 2022 (Tues) <br> 
+<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 20th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will learn about the various opportunities at John Jay College and in the Computer Science field. And, this would be a meeting to network with other students. <br> 
 Room Number: TBD <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdOuhrjssGtU-zm3Jqj3zlPaZrbocziuN <br> 
 Meeting ID: 859 3290 0601 <br> </p>
 
-<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27thth, 2022 (Tues) <br> 
+<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will learn about the basics of Git and Github through a demo using terminal. <br> 
 Room Number: TBD <br> 
