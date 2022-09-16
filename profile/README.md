@@ -8,12 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> First General Meeting </b> <br> Date: September 13th, 2022 (Tues) <br> 
+<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 20th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZAscO6urDssE9K-Yqr2hhxJsRVxR_1WQ-fU <br> 
-Meeting ID: 841 7762 0696 <br> 
-</p>
+Description: You will learn about the various opportunities at John Jay College and in the Computer Science field. And, this would be a meeting to network with other students. <br> 
+Room Number: Haaren Hall 200 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdOuhrjssGtU-zm3Jqj3zlPaZrbocziuN <br> 
+Meeting ID: 859 3290 0601 <br> </p>
 
 
 # Table of Contents
@@ -74,14 +74,14 @@ Meeting ID: 841 7762 0696 <br>
 <p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 20th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will learn about the various opportunities at John Jay College and in the Computer Science field. And, this would be a meeting to network with other students. <br> 
-Room Number: TBD <br> 
+Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdOuhrjssGtU-zm3Jqj3zlPaZrbocziuN <br> 
 Meeting ID: 859 3290 0601 <br> </p>
 
 <p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will learn about the basics of Git and Github through a demo using terminal. <br> 
-Room Number: TBD <br> 
+Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZ0tduirqzkuGt07Hq7_YP7vsnxSAwo75SC6 <br> 
 Meeting ID: 890 1135 2409 <br> </p>
  
@@ -90,14 +90,14 @@ Meeting ID: 890 1135 2409 <br> </p>
 <p>Name of Event: <b> A Look Into Cybersecurity Workshop </b> <br> Date: October 11th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: We will take a look into some of the basic architecture of networks and we will explore some of the most common attacks. <br> 
-Room Number: TBD <br> 
+Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIoc--oqDooG9JFejVwNen32q4S_AXdhg9a <br> 
 Meeting ID: 865 4606 1216 <br> </p>
 
 <p>Name of Event: <b> iOS Development Workshop </b> <br> Date: October 25th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will get an introduction into iOS Development using Apple’s Swift programming language. You will also learn how to start making your very own app programmatically. <br> 
-Room Number: TBD <br> 
+Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZUvduqgqz8jGdAnv1DdJAUHn7JMIdSniTPT <br> 
 Meeting ID: 812 1385 4934 <br> </p>
 
@@ -106,14 +106,14 @@ Meeting ID: 812 1385 4934 <br> </p>
 <p>Name of Event: <b> Ethical Hacking (Capture the Flag) Workshop </b> <br> Date: November 8th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: We will execute some of the most common attacks Cybersecurity experts face. You will also get hands on practive via a Capture the Flag (CTF) game. <br> 
-Room Number: TBD <br> 
+Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIscuGqpj4jGdbEt5eLSuXXS_Jk-Ur5aEjD <br> 
 Meeting ID: 861 5828 5932 <br> </p>
 
 <p>Name of Event: <b> Introduction To React / Final General Meeting </b> <br> Date: November 22nd, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will get an introduction into the ever evolving programming language React. This meeting will also be our last meeting of the semester, where we’ll recap all events and new club members. <br> 
-Room Number: TBD <br> 
+Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZwsdO6upz4qEtbRKKExeZ2TV1G2ExhGBG8L <br> 
 Meeting ID: 881 3769 5082 <br> </p>
 
