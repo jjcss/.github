@@ -8,12 +8,11 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 20th, 2022 (Tues) <br> 
+<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn about the various opportunities at John Jay College and in the Computer Science field. And, this would be a meeting to network with other students. <br> 
-Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdOuhrjssGtU-zm3Jqj3zlPaZrbocziuN <br> 
-Meeting ID: 859 3290 0601 <br> </p>
+Description: You will learn about what Git and Github are, why these tools are used, and why these tools are so important to know and get familiar with. We’ll also be doing a demo where you can follow along. Such topics that we will go over are making commits, making branches, making pull requests and much more. Please also make sure you download Visual Studio Code and make a Github account prior to the workshop. <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZ0tduirqzkuGt07Hq7_YP7vsnxSAwo75SC6 <br> 
+Meeting ID: 890 1135 2409 <br> </p>
 
 
 # Table of Contents
@@ -48,8 +47,8 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 - Katharine Wyant (Secretary)
 - Annie He (Treasurer)
 - Israel Klein (Assistant Vice-President)
-- ... (Assistant Secretary
-- ... (Assistant Treasurer)
+- Dinorah Garcia Vasquez (Assistant Secretary
+- Olive Casareno (Assistant Treasurer)
 
 ---
 
@@ -81,7 +80,6 @@ Meeting ID: 859 3290 0601 <br> </p>
 <p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will learn about the basics of Git and Github through a demo using terminal. <br> 
-Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZ0tduirqzkuGt07Hq7_YP7vsnxSAwo75SC6 <br> 
 Meeting ID: 890 1135 2409 <br> </p>
  
