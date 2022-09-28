@@ -8,11 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27th, 2022 (Tues) <br> 
+<p>Name of Event: <b> A Look Into Cybersecurity Workshop </b> <br> Date: October 11th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn about what Git and Github are, why these tools are used, and why these tools are so important to know and get familiar with. We’ll also be doing a demo where you can follow along. Such topics that we will go over are making commits, making branches, making pull requests and much more. Please also make sure you download Visual Studio Code and make a Github account prior to the workshop. <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZ0tduirqzkuGt07Hq7_YP7vsnxSAwo75SC6 <br> 
-Meeting ID: 890 1135 2409 <br> </p>
+Description: We will take a look into some of the basic architecture of networks and we will explore some of the most common attacks. <br> 
+Room Number: Haaren Hall 200 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIoc--oqDooG9JFejVwNen32q4S_AXdhg9a <br> 
+Meeting ID: 865 4606 1216 <br> </p>
 
 
 # Table of Contents
@@ -116,7 +117,7 @@ Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZwsdO6upz4qEtbRKKExeZ2TV1
 Meeting ID: 881 3769 5082 <br> </p>
 
 # Past Fall 2022 Events Repositories
-- Pending...
+- [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Fall_2022)
 
 # Past Spring 2022 Events Repositories
 - [Career Prep Workshop repo](https://github.com/jjcss/Career_Prep_Spring_2022)
