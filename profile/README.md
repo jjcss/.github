@@ -8,12 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> A Look Into Cybersecurity Workshop </b> <br> Date: October 11th, 2022 (Tues) <br> 
+<p>Name of Event: <b> iOS Development Workshop </b> <br> Date: October 25th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: We will take a look into some of the basic architecture of networks and we will explore some of the most common attacks. <br> 
+Description: You will get an introduction into iOS Development using Apple’s Swift programming language. You will also learn how to start making your very own app programmatically. <br> 
 Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIoc--oqDooG9JFejVwNen32q4S_AXdhg9a <br> 
-Meeting ID: 865 4606 1216 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZUvduqgqz8jGdAnv1DdJAUHn7JMIdSniTPT <br> 
+Meeting ID: 812 1385 4934 <br> </p>
 
 
 # Table of Contents
