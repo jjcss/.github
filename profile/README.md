@@ -8,12 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> iOS Development Workshop </b> <br> Date: October 25th, 2022 (Tues) <br> 
+<p>Name of Event: <b> Ethical Hacking (Capture the Flag) Workshop </b> <br> Date: November 8th, 2022 (Tues) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will get an introduction into iOS Development using Apple’s Swift programming language. You will also learn how to start making your very own app programmatically. <br> 
+Description: We will execute some of the most common attacks Cybersecurity experts face. You will also get hands on practive via a Capture the Flag (CTF) game. <br> 
 Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZUvduqgqz8jGdAnv1DdJAUHn7JMIdSniTPT <br> 
-Meeting ID: 812 1385 4934 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIscuGqpj4jGdbEt5eLSuXXS_Jk-Ur5aEjD <br> 
+Meeting ID: 861 5828 5932 <br> </p>
 
 
 # Table of Contents
@@ -118,7 +118,8 @@ Meeting ID: 881 3769 5082 <br> </p>
 
 # Past Fall 2022 Events Repositories
 - [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Fall_2022)
-- [Intro. to Cybersecurity Workshop](https://github.com/jjcss/Intro_to_Cybersecurity_Workshop_Fall_2022)
+- [Intro. to Cybersecurity Workshop repo](https://github.com/jjcss/Intro_to_Cybersecurity_Workshop_Fall_2022)
+- [iOS Development Workshop repo](https://github.com/jjcss/iOS_Development_Workshop_Fall_2022)
 
 # Past Spring 2022 Events Repositories
 - [Career Prep Workshop repo](https://github.com/jjcss/Career_Prep_Spring_2022)
