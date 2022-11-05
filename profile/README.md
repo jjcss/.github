@@ -120,6 +120,7 @@ Meeting ID: 881 3769 5082 <br> </p>
 - [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Fall_2022)
 - [Intro. to Cybersecurity Workshop repo](https://github.com/jjcss/Intro_to_Cybersecurity_Workshop_Fall_2022)
 - [iOS Development Workshop repo](https://github.com/jjcss/iOS_Development_Workshop_Fall_2022)
+- [Ethical Hacking (CTF) Workshop repo](https://github.com/jjcss/Ethical_Hacking_Workshop_Fall_2022)
 
 # Past Spring 2022 Events Repositories
 - [Career Prep Workshop repo](https://github.com/jjcss/Career_Prep_Spring_2022)
