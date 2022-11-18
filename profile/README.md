@@ -49,7 +49,7 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 - Annie He (Treasurer)
 - Israel Klein (Assistant Vice-President)
 - Dinorah Garcia Vasquez (Assistant Secretary)
-- Brian De Los Santo (Assistant Treasurer)
+- Brian De Los Santos (Assistant Treasurer)
 
 ---
 
