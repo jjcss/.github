@@ -8,12 +8,7 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> Introduction To React / Final General Meeting </b> <br> Date: November 22nd, 2022 (Tues) <br> 
-Time: 1:40 PM - 2:55 PM <br> 
-Description: You will get an introduction into the ever evolving programming language React. This meeting will also be our last meeting of the semester, where we’ll recap all events and new club members. <br> 
-Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZwsdO6upz4qEtbRKKExeZ2TV1G2ExhGBG8L <br> 
-Meeting ID: 881 3769 5082 <br> </p>
+**TBD**
 
 
 # Table of Contents
