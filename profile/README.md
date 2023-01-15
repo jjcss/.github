@@ -28,7 +28,7 @@ This Github will be a place where all club members will be able to access any pr
 🤔   [Discord](https://discord.gg/fJZKErEnPa)
 🎓   [Email](computersocjjay@gmail.com)
 💼   [Instagram](https://www.instagram.com/jjccomputerscience/)
-🌱   [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSdH_JXgC_RLikn0gXIr3v7h9TcPvZX3XxaW1CvdhJ3Unnofwg/viewform?usp=pp_url)
+🌱   [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSdOBbIdOxe1qj1JBILxpuZp_YDLSMNVaGgjExYMzkVNFL2KxA/viewform)
 ✍️   [Club Website](https://jjaycss.tech/)
 💎   [Club LinkedIn](https://www.linkedin.com/company/80056367/admin/)
 🔌 [Club Facebook](https://www.facebook.com/CSSJohnJay)
