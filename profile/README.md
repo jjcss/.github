@@ -8,7 +8,13 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-**TBD**
+<p>Name of Event: <b> First General Meeting </b> <br> Date: February 6th, 2023 (Mon) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZModOGtpjIuGdaUZk-jimZBtVQC5FEdSKlz <br> 
+Room Number: Haaren Hall 200 <br> 
+Meeting ID: 875 3858 9432 <br> 
+</p>
 
 
 # Table of Contents
