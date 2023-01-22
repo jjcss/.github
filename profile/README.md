@@ -16,7 +16,8 @@ This Github will be a place where all club members will be able to access any pr
 - [About Us](#About-Us)
 - [Executive Board](#Executive-Board)
 - [How to Contribute to the Club Website](#How-to-Contribute-to-the-Club-Website)
-- [Fall 2022 Calendar of Events](#Fall-2022-Calendar-of-Events)
+- [Spring 2023 Calendar of Events](#Spring-2023-Calendar-of-Events)
+- [Past Spring 2023 Events Repositories](#Past-Spring-2023-Events-Repositories)
 - [Past Fall 2022 Events Repositories](#Past-Fall-2022-Events-Repositories)
 - [Past Spring 2022 Events Repositories](#Past-Spring-2022-Events-Repositories)
 - [Past Fall 2021 Events Repositories](#Past-Fall-2021-Events-Repositories)
@@ -55,61 +56,84 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 ---
 
 
-# Fall 2022 Calendar of Events
+# Spring 2023 Calendar of Events
 
-## September
+## February
 
-<p>Name of Event: <b> First General Meeting </b> <br> Date: September 13th, 2022 (Tues) <br> 
+<p>Name of Event: <b> First General Meeting </b> <br> Date: February 6th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZAscO6urDssE9K-Yqr2hhxJsRVxR_1WQ-fU <br> 
-Meeting ID: 841 7762 0696 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZModOGtpjIuGdaUZk-jimZBtVQC5FEdSKlz <br> 
+Room Number: Haaren Hall 200 <br> 
+Meeting ID: 875 3858 9432 <br> 
 </p>
 
-<p>Name of Event: <b> Career Prep Workshop </b> <br> Date: September 20th, 2022 (Tues) <br> 
-Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn about the various opportunities at John Jay College and in the Computer Science field. And, this would be a meeting to network with other students. <br> 
-Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdOuhrjssGtU-zm3Jqj3zlPaZrbocziuN <br> 
-Meeting ID: 859 3290 0601 <br> </p>
+<p>Name of Event: <b> Breakthrough Tech Info Session </b> <br> Date: February 6th, 2023 (Mon) <br> 
+Time: 6:00 PM - 7:00 PM <br> 
+Description: Come join an Info Session led by Abby Kawola, a recruitment and placement coordinator at Break Through Tech, which is a program hosted at Cornell Tech that helps college women (trans and cis), nonbinary, and other underrepresented groups in tech gain the skills they need to get jobs in the fastest- growing areas of tech: data science, machine learning, and artificial intelligence. <br> 
+Zoom Link: https://cornell.zoom.us/meeting/register/tJUrdu6oqDIoH9yBL13uN3eqgrAVEM_xxH7Y <br> 
+</p>
 
-<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: September 27th, 2022 (Tues) <br> 
+<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: February 13th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn about the basics of Git and Github through a demo using terminal. <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZ0tduirqzkuGt07Hq7_YP7vsnxSAwo75SC6 <br> 
-Meeting ID: 890 1135 2409 <br> </p>
+Description: You will learn the basics of Git and Github through a coding demo. In this demo we’ll be going over setting up Git in your system, creating branches, making commits, and making pull requests. <br> 
+Room Number: Haaren Hall 200 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEqcOiqqzwoHta_LFwM9fHq78YzHMPsteTa <br> 
+Meeting ID: 857 7125 7242 <br> </p>
+
+<p>Name of Event: <b> Computer Networking Basics Workshop </b> <br> Date: February 27th, 2023 (Mon) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: You will learn an intro of how computers exchange and share data with each other. We will go over different computer network types, terms, concepts, architecture, security and examples. <br> 
+Room Number: Haaren Hall 200 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZcsc-qrpzgqG9OLvAtt_uUoKXZq-w098wgb <br> 
+Meeting ID: 831 4339 3017 <br> </p>
  
-## October
+## March
 
-<p>Name of Event: <b> A Look Into Cybersecurity Workshop </b> <br> Date: October 11th, 2022 (Tues) <br> 
+<p>Name of Event: <b> In Depth React Overview Workshop </b> <br> Date: March 13th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: We will take a look into some of the basic architecture of networks and we will explore some of the most common attacks. <br> 
+Description: You will learn about arguably the most used framework out there, React. We’ll go over how to set up React, components, and so much more. <br> 
 Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIoc--oqDooG9JFejVwNen32q4S_AXdhg9a <br> 
-Meeting ID: 865 4606 1216 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZYkf--srj0uG9zrgFAOF-2Az5XSMpGld5kN <br> 
+Meeting ID: 829 8640 6418 <br> </p>
 
-<p>Name of Event: <b> iOS Development Workshop </b> <br> Date: October 25th, 2022 (Tues) <br> 
+<p>Name of Event: <b> Python x Cybersecurity Workshop </b> <br> Date: March 27th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will get an introduction into iOS Development using Apple’s Swift programming language. You will also learn how to start making your very own app programmatically. <br> 
+Description: You will get an introduction into how to use Python when dealing with common Cybersecurity vulnerabilities. <br> 
 Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZUvduqgqz8jGdAnv1DdJAUHn7JMIdSniTPT <br> 
-Meeting ID: 812 1385 4934 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdeGtqzMiGtEMTOpgCASb-luL8J-8wZqn <br> 
+Meeting ID: 859 2855 8805 <br> </p>
 
-## November
+## April
 
-<p>Name of Event: <b> Ethical Hacking (Capture the Flag) Workshop </b> <br> Date: November 8th, 2022 (Tues) <br> 
+<p>Name of Event: <b> Pre-Hackathon Meeting / Team Formation </b> <br> Date: April 17th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: We will execute some of the most common attacks Cybersecurity experts face. You will also get hands on practive via a Capture the Flag (CTF) game. <br> 
+Description: TBD <br> 
 Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZIscuGqpj4jGdbEt5eLSuXXS_Jk-Ur5aEjD <br> 
-Meeting ID: 861 5828 5932 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZMudu-qqDsjHdQ_c_Bg90vnOqRe2W-Elz5g <br> 
+Meeting ID: 873 1626 0970 <br> </p>
 
-<p>Name of Event: <b> Introduction To React / Final General Meeting </b> <br> Date: November 22nd, 2022 (Tues) <br> 
+<p>Name of Event: <b> CSS Board Election </b> <br> Date: April 24th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will get an introduction into the ever evolving programming language React. This meeting will also be our last meeting of the semester, where we’ll recap all events and new club members. <br> 
+Description: You will get a chance to elect the CSS Board (President, Vice-President, Secretary & Treasurer) - Fall 2023 - Spring 2024. More details on how to apply by early April the latest. <br> 
 Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZwsdO6upz4qEtbRKKExeZ2TV1G2ExhGBG8L <br> 
-Meeting ID: 881 3769 5082 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZMsde2oqjgqGtyc9zqMfWz6M7i5RXGxrvOl <br> 
+Meeting ID: 871 2404 3008 <br> </p>
+
+<p>Name of Event: <b> CSS Social Change Hackathon </b> <br> Date: April 28-29th, 2023 <br> 
+Description: More details to come in the following months. <br> 
+</p>
+
+## May
+
+<p>Name of Event: <b> Final General Meeting / Senior Farewell Party </b> <br> Date: May 8th, 2023 (Mon) <br> 
+Time: 1:40 PM - 2:55 PM <br> 
+Description: This will be the last meeting of the semester. We’ll briefly recap the Spring 2023 semester and have a party for all club members and seniors to celebrate the end of the school year. <br> 
+Room Number: Haaren Hall 200 <br> 
+</p>
+
+# Past Spring 2023 Events Repositories
+- ...
 
 # Past Fall 2022 Events Repositories
 - [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Fall_2022)
