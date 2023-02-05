@@ -12,7 +12,7 @@ This Github will be a place where all club members will be able to access any pr
 Time: 1:40 PM - 2:55 PM <br> 
 Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZModOGtpjIuGdaUZk-jimZBtVQC5FEdSKlz <br> 
-Room Number: Haaren Hall 200 <br> 
+Room Number: 5.66.01 - New Building <br> 
 Meeting ID: 875 3858 9432 <br> 
 </p>
 
@@ -70,7 +70,7 @@ The Computer Science Society (CSS) is dedicated to promoting the STEM field, spe
 Time: 1:40 PM - 2:55 PM <br> 
 Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZModOGtpjIuGdaUZk-jimZBtVQC5FEdSKlz <br> 
-Room Number: Haaren Hall 200 <br> 
+Room Number: 5.66.01 - New Building <br> 
 Meeting ID: 875 3858 9432 <br> 
 </p>
 
@@ -83,7 +83,6 @@ Zoom Link: https://cornell.zoom.us/meeting/register/tJUrdu6oqDIoH9yBL13uN3eqgrAV
 <p>Name of Event: <b> Git/Github Workshop </b> <br> Date: February 13th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Description: You will learn the basics of Git and Github through a coding demo. In this demo we’ll be going over setting up Git in your system, creating branches, making commits, and making pull requests. <br> 
-Room Number: Haaren Hall 200 <br> 
 Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEqcOiqqzwoHta_LFwM9fHq78YzHMPsteTa <br> 
 Meeting ID: 857 7125 7242 <br> </p>
 
