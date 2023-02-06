@@ -136,7 +136,7 @@ Room Number: Haaren Hall 200 <br>
 </p>
 
 # Past Spring 2023 Events Repositories
-- ...
+- [First General Meeting Repo](https://github.com/jjcss/First_General_Meeting_Spring_2023)
 
 # Past Fall 2022 Events Repositories
 - [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Fall_2022)
