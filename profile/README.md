@@ -8,13 +8,11 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> First General Meeting </b> <br> Date: February 6th, 2023 (Mon) <br> 
+<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: February 13th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: The club’s first general meeting where plans and upcoming events of the Spring semester will be discussed. <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZModOGtpjIuGdaUZk-jimZBtVQC5FEdSKlz <br> 
-Room Number: 5.66.01 - New Building <br> 
-Meeting ID: 875 3858 9432 <br> 
-</p>
+Description: You will learn the basics of Git and Github through a coding demo. In this demo we’ll be going over setting up Git in your system, creating branches, making commits, and making pull requests. <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEqcOiqqzwoHta_LFwM9fHq78YzHMPsteTa <br> 
+Meeting ID: 857 7125 7242 <br> </p>
 
 
 # Table of Contents
