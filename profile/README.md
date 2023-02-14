@@ -8,11 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> Git/Github Workshop </b> <br> Date: February 13th, 2023 (Mon) <br> 
+<p>Name of Event: <b> Computer Networking Basics Workshop </b> <br> Date: February 27th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn the basics of Git and Github through a coding demo. In this demo we’ll be going over setting up Git in your system, creating branches, making commits, and making pull requests. <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEqcOiqqzwoHta_LFwM9fHq78YzHMPsteTa <br> 
-Meeting ID: 857 7125 7242 <br> </p>
+Description: You will learn an intro of how computers exchange and share data with each other. We will go over different computer network types, terms, concepts, architecture, security and examples. <br> 
+Room Number: Haaren Hall 200 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZcsc-qrpzgqG9OLvAtt_uUoKXZq-w098wgb <br> 
+Meeting ID: 831 4339 3017 <br> </p>
 
 
 # Table of Contents
