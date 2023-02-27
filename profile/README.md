@@ -8,12 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> Computer Networking Basics Workshop </b> <br> Date: February 27th, 2023 (Mon) <br> 
+<p>Name of Event: <b> In Depth React Overview Workshop </b> <br> Date: March 13th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn an intro of how computers exchange and share data with each other. We will go over different computer network types, terms, concepts, architecture, security and examples. <br> 
-Room Number: Haaren Hall 200 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZcsc-qrpzgqG9OLvAtt_uUoKXZq-w098wgb <br> 
-Meeting ID: 831 4339 3017 <br> </p>
+Description: You will learn about arguably the most used framework out there, React. We’ll go over how to set up React, components, and so much more. <br> 
+Room Number: Haaren Hall 202 <br> 
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZYkf--srj0uG9zrgFAOF-2Az5XSMpGld5kN <br> 
+Meeting ID: 829 8640 6418 <br> </p>
 
 
 # Table of Contents
