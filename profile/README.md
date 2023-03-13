@@ -8,12 +8,12 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> React (Fullstack) Workshop </b> <br> Date: March 13th, 2023 (Mon) <br> 
+<p>Name of Event: <b> Python x Cybersecurity Workshop </b> <br> Date: March 27th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: You will learn about arguably the most used framework out there, React. We’ll go over how to connect our React projects to a backend, in this case, MySQL. Then, we'll go over how to implement the CRUD method in our React projects to display data. <br> 
+Description: You will get an introduction into how to use Python when dealing with common Cybersecurity vulnerabilities. <br> 
 Room Number: Haaren Hall 202 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZYkf--srj0uG9zrgFAOF-2Az5XSMpGld5kN <br> 
-Meeting ID: 829 8640 6418 <br> </p>
+Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZEkdeGtqzMiGtEMTOpgCASb-luL8J-8wZqn <br> 
+Meeting ID: 859 2855 8805 <br> </p>
 
 
 # Table of Contents
