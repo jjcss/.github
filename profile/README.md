@@ -140,6 +140,7 @@ Room Number: Haaren Hall 202 <br>
 - [First General Meeting Repo](https://github.com/jjcss/First_General_Meeting_Spring_2023)
 - [Git & GitHub Workshop Repo](https://github.com/jjcss/Git_GitHub_Workshop_Spring_2023)
 - [Computer Networking Basics Repo](https://github.com/jjcss/Computer_Networking_Basics_Spring_2023)
+- [React (Fullstack) Workshop](https://github.com/jjcss/React_Fullstack_Spring_2023-)
 
 # Past Fall 2022 Events Repositories
 - [Git & Github Workshop repo](https://github.com/jjcss/Git_Github_Workshop_Fall_2022)
