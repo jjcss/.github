@@ -38,6 +38,7 @@ Meeting ID: 873 1626 0970 <br> </p>
 ✍️   [Club Website](https://jjaycss.tech/)
 💎   [Club LinkedIn](https://www.linkedin.com/company/80056367/admin/)
 🔌 [Club Facebook](https://www.facebook.com/CSSJohnJay)
+📹  [YouTube Channel](https://www.youtube.com/@computersocjjay)
 
 # About Us
 
