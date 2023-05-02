@@ -8,12 +8,11 @@ This Github will be a place where all club members will be able to access any pr
 --- 
 
 ## Upcoming Club Event(s)
-<p>Name of Event: <b> Pre-Hackathon Meeting / Team Formation </b> <br> Date: April 17th, 2023 (Mon) <br> 
+<p>Name of Event: <b> Final General Meeting / Senior Farewell Party </b> <br> Date: May 8th, 2023 (Mon) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
-Description: TBD <br> 
+Description: This will be the last meeting of the semester. We’ll briefly recap the Spring 2023 semester and have a party for all club members and seniors to celebrate the end of the school year. <br> 
 Room Number: Haaren Hall 202 <br> 
-Zoom Link: https://jjay-cuny.zoom.us/meeting/register/tZMudu-qqDsjHdQ_c_Bg90vnOqRe2W-Elz5g <br> 
-Meeting ID: 873 1626 0970 <br> </p>
+</p>
 
 
 # Table of Contents
