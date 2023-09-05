@@ -43,13 +43,13 @@ Room Number: Haaren Hall 202 <br>
 
 The Computer Science Society (CSS) is dedicated to promoting the STEM field, specifically computer science, technology, and mathematics. We work to provide resources for any student, alumni, and professionals regardless of an individual's degree of knowledge or commitment in the field of computer science. CSS meets and hosts events that provide opportunities for networking, educational, and professional development related to computer science and technology. Our mission is to provide students with the skills, resources, motivation, and training necessary to become successful leaders in STEM.
 
-# Executive Board
+# Executive Board 2023
 <a href="https://www.leandrogamarra.com/" style="text-decoration=none;" target="_blank" rel="noopener noreferrer">Leandro Gamarra (President)</a>
-- Sam Raykhman (Vice-President)
+- Israel Klein (President)
+- Dinorah Garcia-Vasquez (Vice-President)
 - Katharine Wyant (Secretary)
-- Annie He (Treasurer)
-- Israel Klein (Assistant Vice-President)
-- Dinorah Garcia Vasquez (Assistant Secretary)
+- Hazel Ortega (Treasurer)
+- Mario Soveranes (Assistant Vice-President)
 - Brian De Los Santos (Assistant Treasurer)
 
 ---
